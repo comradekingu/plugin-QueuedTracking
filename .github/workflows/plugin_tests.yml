@@ -1,4 +1,4 @@
-name: Plugin AnonymousPiwikUsageMeasurement Tests
+name: Plugin QueuedTracking Tests
 
 on:
   pull_request:
