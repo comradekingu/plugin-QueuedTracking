@@ -115,3 +115,4 @@ jobs:
         env:
           TEST_SUITE: ${{ matrix.type }}
           PLUGIN_NAME: ${{ env.PLUGIN }}
+          TRAVIS: true
